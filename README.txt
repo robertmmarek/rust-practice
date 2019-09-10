@@ -1,1 +1,1 @@
-Solutions for https://github.com/robertmmarek/rust-practice.git
+Solutions for https://github.com/sn99/rust-practise-questions
