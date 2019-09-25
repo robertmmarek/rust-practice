@@ -1,1 +1,1 @@
-Solutions for ch
+Solutions for https://github.com/sn99/rust-practise-questions
